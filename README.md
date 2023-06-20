@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm currently learning about Data Science , Analytics, Machine Learning and Statistics!
+
+I'm working on my career transition to a Data, before that i'm production engineer.
+
+Ask me about everything on my profile you want.
 <!--
 **LohanRosa/LohanRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
