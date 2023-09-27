@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm currently learning about Data Science , Analytics, Machine Learning and Statistics!
+I'm currently talking about SQL, Data Analytics, Statistics, Python, Power BI and Business!
+
+I'm so happy because I started my career as a full stack developer. I'm studying systems analysis and development college!
+I'm learning about HTML, CSS, JavaScrips, PHP, MySQL, NodeJS, API's Git and GitHub!
 
 I'm working on my career transition to a Data, before that i'm production engineer.
 
