@@ -6,7 +6,7 @@ I'm so happy because I started my career as a full stack developer. I'm studying
 
 I'm learning about HTML, CSS, JavaScrips, PHP, MySQL, NodeJS, API's Git and GitHub!
 
-I'm working on my career transition to a Data, before that i'm production engineer.
+I'm working on my career transition to a Data and full stack developer, before that i'm production engineer with MBA in Management.
 
 Ask me about everything on my profile you want.
 <!--
