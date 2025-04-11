@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-I'm currently talking about SQL, Data Analytics, Statistics, Python, Power BI and Business!
+I started my career as a back end developer. I'm studying systems analysis and development college!
 
-I'm so happy because I started my career as a full stack developer. I'm studying systems analysis and development college!
+I'm Java Developer now and I started studying the Spring Boot framework.
 
 I'm learning about HTML, CSS, JavaScrips, PHP, MySQL, NodeJS, API's Git and GitHub!
 
-I'm working on my career transition to a Data and full stack developer, before that i'm production engineer with MBA in Management.
+Starting to study cloud topics.
+
+Before that i'm production engineer with MBA in Management.
 
 Ask me about everything on my profile you want.
 <!--
