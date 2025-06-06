@@ -1,18 +1,22 @@
-### Hi there 👋
-
-I started my career as a back end developer. I'm studying systems analysis and development college!
-
-I'm Java Developer now and I started studying the Spring Boot framework.
-
+### 👋 Hi there!
+I'm a Java Developer with a background in Production Engineering and an MBA in Management. I'm currently pursuing a degree in Systems Analysis and Development, and expanding my skill set across modern software development tools and frameworks.
 I wanna start Angular and React for front-end!
 
-I'm learning about Front and Back end, API's Git and GitHub!
+💻 What I'm working on:
+Back-end development with Java and Spring Boot
+Exploring Front-end technologies: learning Angular and React
+Building and consuming RESTful APIs
+Improving version control practices with Git and GitHub
+Starting with Docker and Cloud Computing fundamentals
 
-Starting to study cloud topics and dockers too.
+🎯 My Goals:
+Become a Full Stack Developer
+Contribute to open source projects
+Keep learning and building real-world applications
 
-Before that i'm production engineer with MBA in Management.
+🤝 Let's connect!
+Feel free to check my repositories, suggest improvements, or ask me anything related to my projects. I'm always open to collaboration and learning from others!
 
-Ask me about everything on my profile you want.
 <!--
 **LohanRosa/LohanRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
