@@ -4,9 +4,11 @@ I started my career as a back end developer. I'm studying systems analysis and d
 
 I'm Java Developer now and I started studying the Spring Boot framework.
 
-I'm learning about HTML, CSS, JavaScrips, PHP, MySQL, NodeJS, API's Git and GitHub!
+I wanna start Angular and React for front-end!
 
-Starting to study cloud topics.
+I'm learning about Front and Back end, API's Git and GitHub!
+
+Starting to study cloud topics and dockers too.
 
 Before that i'm production engineer with MBA in Management.
 
