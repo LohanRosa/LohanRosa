@@ -1,27 +1,25 @@
-👋 Hi there!
-I'm a Java Developer with a background in Production Engineering and an MBA in Management. I'm currently pursuing a degree in Systems Analysis and Development while expanding my skills in modern software development tools and frameworks.
-I'm diving into Angular and React to strengthen my front-end knowledge!
+# 👋 Hi, I'm Lohan Rosa!
 
-💻 What I’m working on:
+💻 **Java Developer** | 🎓 Background in *Production Engineering* | 🎯 Future **Full Stack Developer**
 
-<
-Back-end development with Java and Spring Boot
-Exploring front-end technologies: learning Angular and React
-Building and consuming RESTful APIs
-Enhancing version control practices with Git and GitHub
-Getting started with Docker and Cloud Computing fundamentals
->
+I'm currently studying **Systems Analysis and Development** and exploring modern tools to grow as a developer.  
+I’m passionate about clean code, continuous learning, and building real-world applications.
 
-🎯 My Goals:
-<
-Become a Full Stack Developer
-Contribute to open-source projects
-Keep learning and building real-world applications
->
+### 🚀 What I'm Working On
+- 🧩 Back-end development with **Java** & **Spring Boot**  
+- 🌐 Learning **Angular** and **React** for front-end  
+- 🔗 Building and consuming **RESTful APIs**  
+- 🐳 Getting started with **Docker** and **Cloud Computing**  
+- 🧠 Improving Git & GitHub practices
+- 
+### 🎯 Goals
+- Become a **Full Stack Developer**  
+- Contribute to **Open Source Projects**  
+- Keep learning and sharing knowledge  
 
-🤝 Let’s connect!
-Feel free to explore my repositories, share feedback, or discuss tech-related topics.
-I’m always open to collaboration and continuous learning!
+### 🤝 Let’s Connect
+💬 Feel free to explore my repositories, share feedback, or discuss new ideas!  
+I’m always open to **collaboration** and **learning from others** 🚀
 
 <!--
 **LohanRosa/LohanRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
