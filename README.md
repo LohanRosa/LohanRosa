@@ -2,8 +2,8 @@
 
 💻 **Java Developer** | 🎓 Background in *Production Engineering* | 🎯 Future **Full Stack Developer**
 
-I'm currently studying **Systems Analysis and Development** and exploring modern tools to grow as a developer.  
-I’m passionate about clean code, continuous learning, and building real-world applications.
+I'm a Java Developer with a background in **Production Engineering** and an **MBA in Management.** I'm currently pursuing a degree in **Systems Analysis and Development** while expanding my skills in modern software development tools and frameworks.
+I'm diving into **Angular** and **React** to strengthen my front-end knowledge!
 
 ### 🚀 What I'm Working On
 - 🧩 Back-end development with **Java** & **Spring Boot**  
@@ -11,7 +11,7 @@ I’m passionate about clean code, continuous learning, and building real-world 
 - 🔗 Building and consuming **RESTful APIs**  
 - 🐳 Getting started with **Docker** and **Cloud Computing**  
 - 🧠 Improving Git & GitHub practices
-- 
+  
 ### 🎯 Goals
 - Become a **Full Stack Developer**  
 - Contribute to **Open Source Projects**  
