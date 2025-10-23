@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lohan Rosa!
 
-💻 **Java Developer** | 🎓 Background in *Production Engineering* | 🎯 Future **Full Stack Developer**
+💻 **Java Developer** | 🎓 Background in *Production Engineering* | 🎯 **Full Stack Developer**
 
 I'm a Java Developer with a background in **Production Engineering** and an **MBA in Management.** I'm currently pursuing a degree in **Systems Analysis and Development** while expanding my skills in modern software development tools and frameworks.
 I'm diving into **Angular** and **React** to strengthen my front-end knowledge!
